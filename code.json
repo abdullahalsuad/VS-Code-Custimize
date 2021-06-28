@@ -1,3 +1,4 @@
+
 {
     "explorer.confirmDelete": false,
     "window.zoomLevel": 0,
@@ -5,12 +6,22 @@
     "liveSassCompile.settings.autoprefix": [],
     "workbench.colorCustomizations": {
 
+        //Cursor color
         "editorCursor.background": "#000000",
         "editorCursor.foreground": "#00fd7e",
 
+        //tab color
+        "tab.activeBorder": "#fd9800",
+        "tab.activeBorderTop": "#fd9800",
+        "tab.activeBackground": "#101830",
+        "tab.activeForeground": "#ffffff",
+
+        // active bar
+        "activityBar.activeBorder": "#01ffdd",
+
         // linenumber color 
         "editorLineNumber.foreground": "#00ff9d",
-        "editorLineNumber.activeForeground": "#01ffd5",
+        "editorLineNumber.activeForeground": "#01ffd569",
 
         // StatusBar color
         "statusBar.background": "#03faa8",
@@ -46,3 +57,4 @@
     "workbench.colorTheme": "Dracula",
 
 }
+
