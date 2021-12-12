@@ -1,0 +1,73 @@
+{
+    "explorer.confirmDelete": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "liveSassCompile.settings.autoprefix": [ ],
+    "powermode.enabled": true,
+    "workbench.colorCustomizations": {
+
+        //title bar
+        "titleBar.activeBackground": "#18173f91",
+        "titleBar.activeForeground":"#ffffff",
+        
+        //Cursor color
+        "editorCursor.background": "#000000",
+        "editorCursor.foreground": "#00fd7e",
+
+        //tab color
+        "tab.activeBorder": "#06fcb2bd",
+        "tab.activeBorderTop": "#06fcb2bd",
+        "tab.activeForeground": "#ffffff",
+
+        // active bar
+        "activityBar.activeBorder": "#00ff37",
+
+        // linenumber color 
+        "editorLineNumber.foreground": "#06fcb2",
+        "editorLineNumber.activeForeground": "#d9ff00",
+
+        // StatusBar color
+        "statusBar.background": "#03faa8",
+        "statusBar.foreground": "#000000",
+        
+       // controls the color of the terminal
+        "terminal.ansiBlack": "#171c2a",
+        "terminal.ansiRed": "#E35535",
+        "terminal.ansiGreen": "#03faa8",
+        "terminal.ansiYellow": "#66ffc4",
+        "terminal.ansiBlue": "#00B3BD",
+        "terminal.ansiMagenta": "#e99191",
+        "terminal.ansiCyan": "#78e8c6",
+        "terminal.ansiWhite": "#FFFFFFcc",
+        "terminal.ansiBrightBlack": "#00B3BD",
+        "terminal.ansiBrightRed": "#E35535",
+        "terminal.ansiBrightGreen": "#03faa8",
+        "terminal.ansiBrightYellow": "#66ffc4",
+        "terminal.ansiBrightBlue": "#00B3BD",
+        "terminal.ansiBrightMagenta": "#e991e3",
+        "terminal.ansiBrightCyan": "#78e8c6",
+        "terminal.ansiBrightWhite": "#ffd000",
+        "terminal.background": "#1b2131",
+        "terminalCursor.background": "#03faa8",
+        "terminalCursor.foreground": "#ff6666",
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "editor.cursorBlinking": "expand",
+    "files.autoSave": "onWindowChange",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Electron",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "auto-rename-tag.activationOnLanguage": [
+
+        "*"
+    ],
+    "powermode.enableShake": false,
+    "powermode.explosionSize": 10,
+    "powermode.customCss": {
+
+    },
+
+}
+
